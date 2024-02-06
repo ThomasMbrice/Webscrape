@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "bookscraper",
+			"path": "../../../../../bookscraper/bookscraper"
+		},
+		{
+			"name": "venv",
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}
